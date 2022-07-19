@@ -36,6 +36,8 @@
 ![](https://github.com/Nathan-Yorio/TransparentAnimatedGifs-Creative-Commons/blob/54480c1ce2c72e2628c1b1c96ef86b4d92e6ff5a/resources/replace-background.png)
 
 - can slap some filters on it if you want then hit apply
+
+
 ![](https://github.com/Nathan-Yorio/TransparentAnimatedGifs-Creative-Commons/blob/54480c1ce2c72e2628c1b1c96ef86b4d92e6ff5a/resources/filters-and-such.png)
 
 - you should now get a mostly transparent gif to use for whatever you want because it is publicly licensed
