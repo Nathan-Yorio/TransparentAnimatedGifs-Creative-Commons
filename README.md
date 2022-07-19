@@ -52,5 +52,5 @@
 
 - and there it is!
 <p align="center">
-<img src="https://github.com/Nathan-Yorio/TransparentAnimatedGifs-Creative-Commons/blob/54480c1ce2c72e2628c1b1c96ef86b4d92e6ff5a/resources/mandelbrot.gif" width="100" height="100" />
+<img src="https://github.com/Nathan-Yorio/TransparentAnimatedGifs-Creative-Commons/blob/54480c1ce2c72e2628c1b1c96ef86b4d92e6ff5a/resources/mandelbrot.gif" width="100" height="300" />
 </p>
