@@ -18,7 +18,7 @@
 # Step 2. Figure out what the background color of the gif is
 - there are a million tools you can use to figure ou what the hexadecimal value of your gif's background is
 - I personally just dumped it into ppt and eyedropped off of it, but I'm sure there's a malicious chrome extension or something you can download to do that too
-![](https://github.com/Nathan-Yorio/TransparentAnimatedGifs-Creative-Commons/blob/54480c1ce2c72e2628c1b1c96ef86b4d92e6ff5a/resources/eyedropper1.png)
+![](https://github.com/Nathan-Yorio/TransparentAnimatedGifs-Creative-Commons/blob/54480c1ce2c72e2628c1b1c96ef86b4d92e6ff5a/resources/eyedropper1.png | width=100px)
 
 
 - Well, there we have it, it sure is actually red. We care about the hex value of: `#FD0000`
